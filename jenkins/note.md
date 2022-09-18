@@ -5,6 +5,8 @@ Jenkins+Maven+Git持续集成
 - Jenkins-Server
 - TestServer : 也装了jdk
 
-![image](​ https://github.com/bsun33/note/blob/main/images/jenkins_1.png​)
+<img src="​https://github.com/bsun33/note/blob/main/images/jenkins_1.png​" width="300px">
+
+
 
 
