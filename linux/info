@@ -1,0 +1,11 @@
+#文件权限
+owner (r-4, w-2, x-1) - group - other users
+u/g/o/a (all)
+
+$ chmod 777 文件
+$ chmod u+x 文件
+
+
+
+
+
